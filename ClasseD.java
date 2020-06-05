@@ -30,4 +30,7 @@ public class ClasseD {
         System.out.println("MD3");
     }
 
+    public void MD5() {
+        System.out.println("MD5");
+    }
 }
